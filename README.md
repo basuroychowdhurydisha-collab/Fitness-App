@@ -109,7 +109,7 @@ Update this structure to match your actual files.
 
 **Your Name**
 
-- GitHub: YOUR_GITHUB_PROFILE_URL
+- GitHub: basuroychowdhurydisha-collab
 
 ## 📄 License
 
